@@ -1,0 +1,13 @@
+# dependencies
+node_modules/
+
+# production
+build/
+dist/
+
+# environment file
+.env
+
+# root JS and TS files
+./*.js
+./*.ts
